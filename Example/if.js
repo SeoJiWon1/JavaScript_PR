@@ -6,3 +6,8 @@ if(age > 19){
 	else{
 	console.log('나이 제한이 있습니다.');
 }
+
+
+if(document.getElementById('address').value =='') {
+  alert('아이디를 입력해주세요.');
+} 
